@@ -6,7 +6,7 @@ Windsurf amateur 🏄‍
 
 [![Linkedin: panvourtsis](https://img.shields.io/badge/-panvourtsis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panvourtsis/)](https://www.linkedin.com/in/panvourtsis/)
 [![Twitter: panvourtsis](https://img.shields.io/badge/-panvourtsis-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/panvourtsis/)](https://www.twitter.com/panvourtsis/)
-[![Medium: panvourtsis](https://img.shields.io/badge/-panvourtsis-blue?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@panagiotisvrs)](https://medium.com/@panvourtsis)
+[![Medium: panagiotisvrs](https://img.shields.io/badge/-panagiotisvrs-blue?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@panagiotisvrs)](https://medium.com/@panagiotisvrs)
 
 
 ### 🌳 Digital Garden
